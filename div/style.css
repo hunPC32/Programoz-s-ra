@@ -1,0 +1,60 @@
+div{
+    width: 200px;
+    height: 200px;
+    background-color: cadetblue;
+    margin-left: 25px;
+    margin-bottom: 15px;
+    border-radius: 47%;
+    display: inline-block;
+}
+#lela{
+    background-color: purple;
+    width: 201px;
+    height: 201px;
+    border: 20px solid yellow;
+}
+#zold{
+    background-color: transparent;
+    width: 0px;
+    height: 0px;
+    border-radius: 0;
+    border: 120px solid blue;
+    border-left: 100px solid transparent;
+    border-top: 25px solid red;
+    border-right: 100px solid transparent;
+}
+#keret{
+    width: 550px;
+    height: 400px;
+    display: block;
+    border-radius: 20%;
+    background-color: transparent;
+    border: 30px solid transparent;
+    position: relative;
+}
+.karika{
+    border: 15px solid blue;
+    background-color: transparent;
+    position: absolute;
+}
+#k1{
+    top: 0px;
+    left: 150px;
+    border: 15px solid black;
+}
+#k2{
+    top: 0px;
+    left: 300px;
+    border: 15px solid red;
+}
+#k3{
+    top: 90px;
+    left: 75px;
+    border: 15px solid yellow;
+}
+#k4{
+    top: 90px;
+    left: 225px;
+    border: 15px solid green;
+}
+

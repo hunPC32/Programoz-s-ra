@@ -1,0 +1,32 @@
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td{
+    padding: 10px;
+}
+
+th:first-child{
+    background-color: gray;
+    color: white;
+}
+
+td:first-child, th{
+    text-align: center;
+    background-color: white;
+}
+
+td{
+    background-color: gray;
+    color: white;
+}
+
+.w{
+    color: black;
+}
+
+.tör{
+    background-color: pink;
+}
+

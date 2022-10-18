@@ -1,0 +1,32 @@
+*{
+    scroll-behavior: smooth;
+}
+
+body{
+font-size: 30px;
+}
+
+#navbar{
+    background-color: antiquewhite;
+    padding: 20px;
+}
+
+.container{
+    max-width: 800px;
+    width: 100%;
+    margin: auto;
+}
+
+#profil{
+    width: 50%;
+    float: right;
+}
+
+a{
+    text-decoration: none;
+    padding: 10px;
+    text-align: center;
+    border: 5px solid white;
+    font-weight: bold;
+    margin: 10px;
+}
