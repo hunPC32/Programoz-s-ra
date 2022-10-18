@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    width: 100%;
+    min-height: 100vh;
+    background-color: rgb(70, 70, 70);
+}
+
+#frame{
+    box-sizing: border-box;
+    padding: 20px;
+    background-color: orange;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 2%;
+}
+
+input[type=submit]{
+    float: right;
+    background-color: purple;
+    color: #fafafa;
+    border: 5px solid yellow;
+    border-radius: 5%;
+}
+
+input[type=pwd]{
+    background-color: black;
+}
