@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(36, 0, 36);
+}
+
+#menusor{
+    background-color: rgb(68, 0, 68);
+    height: 50px;
+    width: 95%;
+    position: absolute;
+    left: 2.5%;
+}
+
+#teszt{
+    color: transparent;
+}
+
+#kor{
+    background-color: rgb(68, 0, 68);
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    left: 1%;
+    border-radius: 20%;
+}
+
+#kor2{
+    background-color: rgb(68, 0, 68);
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    left: 96.5%;
+    border-radius: 20%;
+}
