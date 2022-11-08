@@ -1,0 +1,16 @@
+.div-pic{
+    width: 200px;
+    height: 200px;
+    background-color: purple;
+    margin: auto;
+}
+
+#profilepic{
+    background-image: url(profiloe.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+div[class*="col-"]{
+    padding-top: 20px;
+}
