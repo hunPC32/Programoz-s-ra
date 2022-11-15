@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <div>
+    <button onclick="fel()">FEL</button>
+    <button onclick="le()">LE</button>
+    <button onclick="gombnyomas(this)">Fel</button>
+    </div>   
+
+    <div id="frame"></div>
+    <div id="mario"></div>
+
+    <button onclick="up()">Left</button>
+    <button onclick="right()">Down</button>
+    <button onclick="down()">Right</button>
+    <button onclick="left()">Up</button>
+
+    <script>
+        
+        le()
+        
+        function le(){
+            document.body.style.backgroundColor="black"
+        
+        }
+        function fel(){
+            document.body.style.backgroundColor="purple"
+        }
+        
+        function gombnyomas(gomb){
+            
+            let hatter = document.body.style.backgroundColor
+            
+            //alert(hatter)
+            
+            if(hatter=="black"){
+                fel()
+                gomb.innerText="Le"
+            
+            }else{
+                le()
+                gomb.innerText="Fel"
+            }
+        }
+    
+    </script>
+
+    <script src="mario.js"></script>
+</body>
+</html>
