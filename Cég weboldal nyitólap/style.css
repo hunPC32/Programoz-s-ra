@@ -1,0 +1,129 @@
+body{
+    background-color: black;
+}
+
+div{
+    position: absolute;
+}
+#menusor{
+    background-color: rgb(68, 0, 68);
+    height: 110px;
+    width: 95%;
+    position: absolute;
+    left: 3%;
+    top: 15px;
+}
+
+#teszt{
+    color: transparent;
+}
+
+#kor{
+    background-color: rgb(68, 0, 68);
+    height: 110px;
+    width: 50px;
+    position: absolute;
+    left: 1%;
+    border-radius: 13%;
+    top: 15px;
+}
+
+#kor2{
+    background-color: rgb(68, 0, 68);
+    height: 110px;
+    width: 50px;
+    position: absolute;
+    left: 96.5%;
+    border-radius: 13%;
+    top: 15px;
+}
+
+#logo{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    margin-top: 5px;
+    margin-left: 20px;
+    position: absolute;
+    border-radius: 50%;
+    background-image: url(profiloe.jpg);
+    background-size: cover;
+    background-position: center;
+    top: 60px;
+    left: 48%;
+}
+
+h1{
+    text-align: center;
+}
+
+#nev2{
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    color: white;
+    top: 15px;
+}
+
+#pontok{
+    width: 200px;
+    height: 200px;
+    top: 500px;
+    color: transparent;
+    background-color: transparent;
+}
+
+#pontok2{
+    position: absolute;
+    color: white;
+    top: 45px;
+}
+
+#p1{
+    left: 500px;
+}
+
+#p2{
+    left: 650px;
+}
+
+#p3{
+    left: 1100px;
+}
+
+#p4{
+    left: 1250px;
+}
+
+.div-pic{
+    background-color: rgb(34, 34, 34);
+    width: 500px;
+    height: 600px;
+    position: absolute;
+    top: 150px;
+    border-radius: 3%;
+    color: white;
+}
+
+#d1{
+    left: 30px;
+}
+
+#d2{
+    left: 700px;
+}
+
+#d3{
+    left: 1380px;
+}
+
+img{
+    width: 450px;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
