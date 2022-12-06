@@ -1,0 +1,20 @@
+body{
+    background-image: url(ferka.jpg);
+    background-size: cover;
+}
+
+#pfp{
+    width: 200px;
+    height: 200px;
+    background-color: purple;
+    margin: auto;
+    background-image: url(alma.webp);
+    background-size: cover;
+    background-position-x: center;
+    border-radius: 50%;
+}
+
+.container{
+    padding: 20px;
+    background-color: rgba(255,255,255,0.5);
+}
