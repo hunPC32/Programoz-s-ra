@@ -1,0 +1,156 @@
+body{
+    background-color: rgb(214, 212, 212);
+}
+
+.ruhak{
+    background-image: url("ruhak.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    border-radius: 50%;
+    margin: 20px;
+}
+.kieg{
+    background-image: url("kieg.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    border-radius: 50%;
+    margin: 20px;
+}
+
+.xmas{
+    background-image: url("xmas.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    border-radius: 50%;
+    margin: 20px;
+}
+
+.oulov{
+    background-image: url("pulo.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    border-radius: 50%;
+    margin: 20px;
+}
+
+.feher{
+    background-image: url("feher.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    border-radius: 50%;
+    margin: 20px;
+}
+
+.fenntarthato{
+    background-image: url("fenntarthato.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    border-radius: 50%;
+    margin: 20px;
+}
+
+.container{
+    position: absolute;
+    margin: auto;
+    margin-left: 335px;
+   
+}
+
+.navbar{
+    width: 99%;
+    height: 120px;
+    background-color: rgb(158, 119, 175);
+    border-radius: 10px;
+    left: 0.5%;
+    top: 10px;
+}
+#cím{
+    position: absolute;
+    left: 43%;
+    top: 5px;
+}
+h1{
+    color: aliceblue;
+}
+
+#logo{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-image: url(profiloe.jpg);
+    background-size: cover;
+    position: absolute;
+    top: 55px;
+    left: 915px;
+}
+
+#reg{
+    position: absolute;
+    top: 10px;
+    left: 600px;
+    color: white;
+    text-decoration: none;
+}
+
+#kapcsolat{
+    left: 425px;
+    top: 10px;
+    position: absolute;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+h1{
+    color: black;
+}
+
+#kereses{
+    position: absolute;
+    width: 100px;
+    background-size: cover;
+    left: 1100px;
+    top: 20px;
+}
+#keresesikon{
+    height: 50px;
+}
+
+input[type=search]{
+    background-color: rgb(158, 119, 175);
+    position: absolute;
+    border: none;
+}
+
+#ruhakk{
+    margin-left: 140px;
+}
+
+#ruhakk1{
+    margin-left: 110px;
+}
+
+#ruhakk2{
+    margin-left: 140px;
+}
+
+#ruhakk3{
+    margin-left: 115px;
+}
+#ruhakk4{
+    margin-left: 100px;
+}
+#ruhakk5{
+    margin-left: 75px;
+}
+.link{
+    color: black;
+}
