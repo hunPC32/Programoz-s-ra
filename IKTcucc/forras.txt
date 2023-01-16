@@ -1,0 +1,37 @@
+
+Menü
+
+MINDSTORMS EV3
+
+Ismerd meg a végsõ LEGO® kihívást: Erõteljes LEGO MINDSTORMS® EV3! A LEGO® MINDSTORMS® EV3 képessé tesz arra, hogy megépítsd és utasítsd saját robotikus LEGO lényeidet, jármûveidet, gépeidet és találmányaidat! Ha kombinálod a LEGO® elemeket egy programozható építõelemmel, motorokkal és érzékelõkkel, akkor készíthetsz olyan alkotásokat, amelyek járnak, beszélnek, megfognak, gondolkodnak, lõnek és szinte bármit megtesznek, amit csak el tudsz képzelni! A 31313 készletben 17 lenyûgözõ LEGO robotkonstrukció építési útmutatóját találod meg (keresd meg mindet online) – egy humanoid robot, egy lõni képes skorpió, egy csúszó-mászó kígyó, egy villás targonca, egy versenykamion, egy elektromos gitár, egy lépegetõ dinoszaurusz és sok minden más. Minden egyes robotnak egyedi tulajdonságai vannak, és egy programja, ami irányítja a robot viselkedését. Sokféleképpen keltheted életre LEGO MINDSTORMS® alkotásaidat. Az azonnali mozgatáshoz, használd a készletben adott távirányítót! Ha még többet szeretnél, töltsd le a Commander App-ot az okostelefonodra! Ha még nehezebb feladatra vágysz, írd meg saját programjaidat az ingyenes programozó szoftverben, amely tableteken, PC-n és Mac-on használható! A LEGO® MINDSTORMS® révén felfedezheted a LEGO és saját képzeleted korlátlan lehetõségeit. További ötleteket és inspirációt meríthetsz, ha megnézed a közösség klassz videóit a honlapon.
+ÚJ EV3 PROGRAMMER APP – INGYENES MINDEN TABLETRE
+
+Az új EV3 Programmer App révén LEGO robotod építése és programozása gyorsabb, átláthatóbb és szórakoztatóbb lesz, mint valaha. Töltsd le a tabletedre az INGYENES appot, válaszd ki azt a robotot, amelyiket meg szeretnéd építeni, majd keltsd életre a továbbfejlesztett programozó eszközzel! Csak a kisujjad kell megmozdítanod.
+© 2017
+
+
+
+
+
+Menü
+
+MINDSTORMS EV3 készlet
+
+Programblokk
+
+Az EV3 építõelem robotod irányító központjaként és erõmûveként szolgál.		Ár:? Ft
+Érzékelõk
+
+Színérzékelõ Hét különbözõ színt ismer fel és méri a fényerõsséget.		Ár:? Ft
+Érintésérzékelõ
+
+Ezzel a robotod reagálni tud az érintésre, felismer három körülményt: érintés, ütközés és felengedés.		Ár:? Ft
+Távirányító infravörös irányjeladó
+
+Távirányítja a robotot valamilyen távolságból, és nyomkövetõ eszközként is használhatod robotjaidhoz.		Ár:? Ft
+Infravörös érzékelõ
+
+Az Infrared Sensor egy olyan digitális érzékelõ, amely képes észlelni a szilárd tárgyakról visszaverõdõ infravörös fényt. A Remote Infrared Beacon infravörös fényét is képes észlelni.		Ár:? Ft
+Feltöltés alatt...
+
+© 2017
