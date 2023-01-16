@@ -1,0 +1,116 @@
+.cim{
+    font-size: 22;
+}
+
+body{
+    background-image: url(background.jpg);
+    color: white;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: consolas;
+}
+
+#navbar{
+    background-color: rgb(0, 0, 150, 0.25);
+    margin-left: 0.125%;
+    width: 99.75%;
+    height: 120px;
+    border: 2px solid white;
+}
+
+#bemutatas{
+    width: 250px;
+    height: 50px;
+    font-size: 24px;
+    border: 2px solid white;
+    border-radius: 50px;
+    text-align: center;
+    align-items: center;
+    display: inline-block;
+}
+
+#megepitheto{
+    width: 250px;
+    height: 50px;
+    font-size: 24px;
+    border: 2px solid white;
+    border-radius: 50px;
+    text-align: center;
+    align-items: center;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+#keszlet{
+    width: 250px;
+    height: 50px;
+    font-size: 24px;
+    border: 2px solid white;
+    border-radius: 50px;
+    text-align: center;
+    align-items: center;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+#menuelem{
+    margin-top: 32.5px;
+    margin-left: 50%;
+    transform: translate(-40%, 0)
+}
+
+.cucc{
+    margin-top: 10px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgb(70, 150, 150);
+    text-decoration: none;
+    transition: 1s;
+}
+
+#logo{
+    margin-top: 60px;
+    width: 100%;
+}
+
+#kozep{
+    width: 80%;
+    margin: auto;
+    background-color: rgb(0, 0, 150, 0.5);
+    border: 3px ridge white;
+    border-radius: 10px;
+}
+
+#szoveg{
+    margin: 20px;
+}
+
+#lab{
+    background-color: rgb(0, 0, 0, 0.5);
+    width: 100%;
+    margin-top: 100%;
+}
+
+#tabla{
+    background-color: rgb(0, 0, 150, 0.5);
+    width: 80%;
+    margin: auto;
+    border: 3px ridge white;
+    border-radius: 20px;
+}
+
+table, th, td{
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+
+#blokk{
+    width: 50%;
+    margin: auto;
+}
