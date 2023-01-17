@@ -1,0 +1,29 @@
+body{
+    width: 100%;
+    min-height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(bg.jpg);
+    background-size: cover;
+}
+
+h1{
+    color: white;
+}
+
+#cookie{
+    width: 80%;
+    max-width: 400px;
+    transition: 0.1s;
+}
+
+#cookie:hover{
+    cursor: pointer;
+}
+
+#cookie:active{
+    width: 90%;
+    max-width: 450px;
+}
