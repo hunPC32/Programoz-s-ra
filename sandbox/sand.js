@@ -2,6 +2,21 @@ console.log("hello")
 
 let a = 100
 let b = "100"
+let car = {
+    brand: "Ferrari",
+    type: "488",
+    engine: {
+        hp: 800,
+        isRunning: false,
+    },
+    toggleMotor: function(){
+        this.engine.isRunning = !this.engine.isRunning
+    },
+    showStatus: function(){
+        let status = this.engine.isRunning ? "is running": "stopped"
+        console.log(this.brand + " " + this.type + " ")
+    }
+}
 
 let amIHungry=true
 
