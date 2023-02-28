@@ -1,0 +1,20 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    min-height: 100vh;
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.choice{
+    width: 150px;
+    height: 150px;
+    background-color: purple;
+    border-radius: 20px;
+}
+
+h1{
+    text-align: center;
+}
