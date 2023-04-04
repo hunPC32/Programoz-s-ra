@@ -75,6 +75,9 @@ label{
     font-size: 16px;
     border: 2px solid #444;
     border-radius: 4px;
+    height: auto;
+    width: auto;
+    font-size: 50px;
 }
 
 input[type="radio"]:checked + label {
@@ -88,12 +91,12 @@ label:hover {
   }
 #igennn{
     float: left;
-    margin-top: 20px;
-    margin-right: auto;
+    margin-left: 38%;
+    margin-top: 10px;
 }
 
 #nemmm{
+    margin-right: 38%;
+    margin-top: -65px;
     float: right;
-    margin-top: -50px;
-    margin-left: auto;
 }
