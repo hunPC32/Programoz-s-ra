@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dobókocka</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <div>
+        
+        <h3 id="result">-</h3>
+        <label for="sides">Oldalak száma:</label>
+        <br>
+        <input type="number" id="sides" value="6" min="2">
+        <br>
+
+        <label for="rollnumber">Dobások száma:</label>
+        <br>
+        <input type="number" id="rollnumber" value="1" min="1">
+        <br>
+
+        <button onclick="roll()">Dobás</button>
+
+    </div>
+
+<script src="kocka.js"></script>
+</body>
+</html>
