@@ -1,0 +1,166 @@
+body
+{
+	background:url('hatter.jpg') no-repeat;
+	background-attachment:fixed;
+	background-size:cover;
+	background-position:center center;
+}
+
+.container
+{
+	border:10px ridge rgba(255,255,255,0.5);
+	border-radius:20px;
+	background-color: rgba(255,255,255,0.5);
+	font-size: 120%;
+}
+
+header
+{
+	height: 10vh;
+}
+
+nav
+{
+	background-color:rgb(38, 119, 49);
+	border:2px solid rgba(255,255,255,0.5);
+	border-radius:10px;
+	font-size:1.5em;
+	text-align: center;
+}
+
+nav ul li
+{
+	display:inline-block;
+	width:200px;	
+}
+
+
+nav ul li a
+{
+	color:white;
+	transition: 1s;
+	text-decoration: none;
+}
+
+nav ul li a:hover
+{
+	background-color:rgb(193, 255, 123);
+	color:white;
+	border-radius: 5px	;
+}
+
+footer
+{
+	background-color:rgb(38, 119, 49);
+	color:white;
+	text-align:center;
+	clear:both;
+}
+
+section img
+{
+	border:5px ridge rgba(255,255,255,0.5);
+}
+
+
+#container
+{
+	max-width:75%;
+	margin:auto;
+}
+
+
+.kozep
+{
+	text-align:center;
+}
+
+.kepek
+{
+	width:300px;
+}
+
+.balra
+{
+	float:left;
+}
+
+.jobbra
+{
+	float:right;
+}
+
+#szolg{
+	height: 400px;
+	width: 400px;
+	text-align: center;
+	background-image: url(szolgaltatas01.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: inline-block;
+	margin-left: 15px;
+	margin-top: 15px;
+	border: 5px solid rgb(192, 188, 188);
+	border-radius: 10px
+}
+#szolg1{
+	height: 400px;
+	width: 400px;
+	text-align: center;
+	background-image: url(szolgaltatas02.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: inline-block;
+	margin-left: 15px;
+	margin-top: 15px;
+	border: 5px solid rgba(192, 188, 188);
+	border-radius: 10px
+}#szolg2{
+	height: 400px;
+	width: 400px;
+	text-align: center;
+	background-image: url(szolgaltatas03.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: inline-block;
+	margin-left: 15px;
+	margin-top: 15px;
+	border: 5px solid rgba(192, 188, 188);
+	border-radius: 10px
+}#szolg3{
+	height: 400px;
+	width: 400px;
+	text-align: center;
+	background-image: url(szolgaltatas04.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: inline-block;
+	margin-left: 15px;
+	margin-top: 15px;
+	border: 5px solid rgba(192, 188, 188);
+	border-radius: 10px
+}#szolg4{
+	height: 400px;
+	width: 400px;
+	text-align: center;
+	background-image: url(szolgaltatas05.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: inline-block;
+	margin-left: 15px;
+	margin-top: 15px;
+	border: 5px solid rgba(192, 188, 188);
+	border-radius: 10px
+}#szolg5{
+	height: 400px;
+	width: 400px;
+	text-align: center;
+	background-image: url(szolgaltatas06.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: inline-block;
+	margin-left: 15px;
+	margin-top: 15px;
+	border: 5px solid rgba(192, 188, 188);
+	border-radius: 10px
+}
