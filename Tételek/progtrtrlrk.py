@@ -1,3 +1,12 @@
+#Összegzés
+
+t = [1,4,2,7,9,1]
+osszeg = 0
+
+for szam in t:
+    osszeg = osszeg + szam
+print(osszeg)
+
 #MEgszámlálás tétele
 
 t = [1,4,2,7,9,1]
@@ -21,7 +30,6 @@ benneVan = False
 for szam in t:
     if szam == a:
         benneVan = True
-        print("Benne van")
         break
 
 if benneVan:
@@ -37,7 +45,7 @@ min = t[0]
 
 for szam in t:
     if szam < min:
-        min == szam
+        min = szam
     print("Legkisebb szám:", min)
 
 
@@ -48,7 +56,7 @@ max = t[0]
 
 for szam in t:
     if szam > max:
-        max == szam
+        max = szam
     print("Legnagyobb szám:", max)
 
 
