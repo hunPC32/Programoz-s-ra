@@ -57,13 +57,10 @@ if keresett != None:
 else:
     print("Nincs bent.")
 
-
-
-
-betu = input("Betű: ").upper()
-
+betu = input("Betű: ")
+talalatok = []
 for auto in autok:
-    m = auto['marka'].upper()
-    t = auto['marka'].upper()
-    if betu in m or betu in t:
-        
+    if betu.upper() in auto['marka'].upper() or betu.upper() in auto['tipus'].upper():
+        talalatok.append((auto["marka"], auto['tipus']))
+
+print(talalatok)
