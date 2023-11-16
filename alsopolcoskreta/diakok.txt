@@ -1,0 +1,5 @@
+1;Gipsz Jakab;1;10;F
+2;Mike Cook;1;9;A
+3;Pofá Zoltán;1;10;F
+4;Kala Pál;1;9;B
+5;Para Zita;0;10;A
