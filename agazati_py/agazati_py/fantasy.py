@@ -1,16 +1,21 @@
 import random
 
-pszam = int(input("Mennyi dobás legyen: "))
-szamok = []
-sz = []
+dobasok_szama = int(input("Dobasok: "))
 
-for i in range(pszam):
-    n = random.randint(1, 20)
+print("A dobott számok: ")
 
-    print(n)
+crit = []
 
-if n % 10 == 0:
-    sz.append(n)
-    print(sz)
+for i in range(dobasok_szama):
+    rnd = random.randint(1,20)
+    if rnd%10 == 0:
+        crit.append({
+            "index": i,
+            "num": rnd
+        })
 
-    
+    print(rnd)
+
+print("Kritek: ")
+for c in crit:
+    print(c['index']+1, c['num'])
