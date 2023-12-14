@@ -1,0 +1,78 @@
+body
+{
+	color:white;
+	font-family:"Luicida Sans";
+	background-image: url(kepek/background.jpg);
+	font-size: 1.2em;
+}
+
+header
+{
+	background-image: url("kepek/2021.jpg");
+	background-size:cover;
+	height:300px;
+}
+
+header h1
+{
+	padding:30px 0;
+	text-align: center;
+	background-repeat: no-repeat;
+}
+
+h2
+{
+	color:lightgreen;
+	background-color:rgba(40, 150, 40, 0.5);
+	letter-spacing:2px;
+	font-weight: bold;
+}
+
+
+.kep
+{
+	margin:10px;
+	max-width: 40%;
+	align-items: left;
+}
+
+#masodik
+{
+	width:400px;
+	text-align:center;
+	margin:10px;
+	border:2px solid white;
+}
+
+.kozep
+{
+	text-align:center;
+}
+
+h1
+{
+	font-variant:small-caps;
+	color: lightgreen;
+}
+
+
+footer
+{
+	background-color: rgba(40, 150, 40, 0.5);
+	margin: 10px;
+	margin-left: 0;
+	margin-right: 0;
+}
+
+a,a:hover, a:visited
+{
+	color:white;
+}
+
+p{
+	text-align: justify;
+}
+
+#jarmupark{
+	list-style: square;
+}
