@@ -1,0 +1,15 @@
+A hegyek.csv fájl Magyarország legmagasabb hegyeinek adatait tartalmazza.
+Az állományban a hegycsúcs nevét, a hegység megnevezését és a hegycsúcs magasságát (méter) tároltuk. Az adatokat pontosvessző választja el.
+Olvasd be a hegyek.csv állományban lévő adatokat és tárolja el egy olyan adatszerkezetben, ami a további feladatok megoldására alkalmas! A fájlban legfeljebb 1000 sor lehet! Ügyeljen arra, hogy az állomány első sora az adatok fejlécét tartalmazza!
+
+1. Határozd meg és írd ki a képernyőre a minta szerint, hogy hány hegy található az állományban!
+2. Határozd meg és írd ki a képernyőre a minta szerint az állományban található hegyek átlagmagasságát!
+3. Határozd meg és írd ki a képernyőre a minta szerint a legmagasabb hegy adatait! Feltételezheted, hogy nem alakult ki holtverseny.
+4. Kérj be a felhasználótól egy magasságértéket! Feltételezheted hogy értelmes éréket visz be a felhasználó. Döntsd el, hogy a Börzsöny hegységben található-e a megadott értéknél magasabb hegycsúcs! A program a keresést ne folytassa, ha a választ meg tudja adni!
+5. Határozd meg és írd ki a képernyőre a minta szerint azoknak a hegycsúcsoknak a számát, amelyek 3000 lábnál magasabbak! Az átváltáshoz az 1 m = 3.280839895 láb értékkel dolgozz!
+6. A bukk-videk.txt állományba írd ki azoknak a hegycsúcsoknak nevét és magasságát a minta szerint, amelyek a Bükk-vidéken magasodnak! Az állomány első sora az adatok fejlécét tartalmazza! Minta:
+
+Hegycsúcs neve;Magasság láb
+Bálvány;3136.5
+Büszkés-hegy;3123.4
+...
