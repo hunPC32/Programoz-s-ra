@@ -1,0 +1,16 @@
+Az eredmenyek.csv UTF-8 kódotású forrásállomány soraiban a következő sorrendben találja meg az adatokat:
+- a hazai csapat neve (hazai), például: Gran Canaria
+- az idegen csapat neve (idegen), például: Rea1 Madrid
+- a hazai csapat által szerzett pontok (hazai_pont), például: 54
+- az idegen csapat által szerzett pontok (idegen_pont), például: 7 9
+- a mérkőzés helyszíne (helyszín): például: Centro Insular De Deportes
+- a mérkőzés időpontja (időpont): például: 2004-10-17
+
+Az állomány első sora a mezőneveket tartalmazza, az adatokat pontosvesszővel választottuk el.
+
+1. Olvasd be az eredmenyek.csv állomány sorait és tárold el az adatokat egy olyan adatszerkezetben, amellyel a további feladatok megoldhatóak! Ügyelj arra, hogy az első sor az adatok fejlécét tartalmazza!
+2. Határozd meg, és írasd ki a képernyőre, hogy a Real Madrid hány mérkőzést játszott hazai, illetve idegen csapatként!
+    pl.: Real Mardid: Hazai: 10, Idegen: 10
+3. Határozd meg, hogy volt-e döntetlen mérkőzés, és ha igen, írd ki mikor, és kik között!
+4. Határozd meg, hogy mi volt a barcelonai csapat pontos neve (a névben szerepel Barcelona város neve)!
+5. Írj ki statisztikát arról, melyik stadionban hány meccs volt (stadion neve - darabszám)!
