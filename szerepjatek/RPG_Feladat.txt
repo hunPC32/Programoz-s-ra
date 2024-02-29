@@ -1,0 +1,12 @@
+3. Szerepjáték szimulálása
+Az ellenfél életereje 50000.
+A karakternek van erő tulajdonsága (1-25 között).
+A (D&D) dobókocka 20 oldalú (1-20 között lehet dobni).
+20 kört játszunk le. Minden körben dobunk a 20 oldalú dobókockával, és a kapott értéket megszorozzuk az erő értékével (pl. kaptál 15-öt a dobásnál, a karakter ereje 10-es, akkor a sebzés 150, tehát az ellenfél életereje 50000-150
+1. Olvassuk be a szereplő életerejét, amely 1 és 25 között lehet.
+2. Tároljuk el egy változóba az 50000-es értéket, amely az ellenfél életereje lesz.
+3. Ciklust indítunk, amely 20 lépésig megy
+4. A cikluson belül generálunk egy számot 1-20 között
+5. Megszorozzuk a kapott értéket az erő értékével, majd levonjuk az ellenfél életerejéből
+6. Kiírjuk, hogy mennyi életereje maradt az ellenfélnek
+PLUSZ FELADAT: Próbáld meg megoldani azt, hogy a körök felváltva vannak, és neked is van energiád, és az ellenfél is tud támadni hasonlóképpen, mint te.
