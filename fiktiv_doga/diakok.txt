@@ -1,0 +1,10 @@
+1;Eszter
+2;Péter
+3;Katalin
+4;Gergő
+5;Emese
+6;László
+7;Dóra
+8;Zoltán
+9;Kinga
+10;István

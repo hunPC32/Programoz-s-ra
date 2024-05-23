@@ -1,0 +1,4 @@
+def echo(n):
+    return n
+
+print(echo("alma"))
