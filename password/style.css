@@ -1,0 +1,86 @@
+body{
+    background-color: black;
+    font-family: monospace;
+}
+
+h2{
+    text-align: center;
+    color: white;
+}
+
+#input{
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    width: 40vh;
+    height: 5vh;
+    background-color: grey;
+    color: darkgrey;
+    margin: auto;
+    margin-bottom: 2vh;
+}
+
+input{
+    text-decoration: none;
+    width: 40vh;
+    height: 5vh;
+    background-color: grey;
+    color: darkgrey;
+    margin-bottom: 2vh;
+}
+
+#minden{
+    width: 40vh;
+    height: 40vh;
+    background-color: grey;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+}
+
+p{
+    text-align: left;
+}
+
+#hossz{
+    margin-top: -4.5vh;
+    margin-left: 38vh;
+}
+
+#checkboxxup{
+    width: 2vh;
+    color: white;
+    margin-left: -300px;
+    margin-top: -100px;
+}
+
+#checkboxxlow{
+    width: 2vh;
+    color: white;
+    margin-left: -300px;
+    margin-top: -100px;
+}
+
+li{
+    list-style: none;
+    color: white;
+}
+
+#checkboxxnum{
+    width: 2vh;
+    color: white;
+    margin-left: -300px;
+    margin-top: -100px;
+}
+
+#checkboxxsymbol{
+    width: 2vh;
+    color: white;
+    margin-left: -300px;
+    margin-top: -100px;
+}
+
+#pé{
+    margin-top: -40px;
+}
